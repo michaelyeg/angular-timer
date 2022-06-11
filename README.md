@@ -10,6 +10,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:8000/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
 
+## Fetch NodeJS dependencies
+
+Make sure NodeJs 12 instead of the latest version is installed, you can use [NVM](https://tecadmin.net/install-nvm-macos-with-homebrew/) to manage multiple Node
+versions on your local machine.
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
