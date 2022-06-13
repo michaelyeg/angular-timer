@@ -1,6 +1,6 @@
 # Angular Timer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5. It is created by Angular 4, but have been upgraded to Angular 5 with [Angular Material](https://v5.material.angular.io/) installed. It showcase an interactive clock with 25 mins count down.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5. It was created by Angular 4, but have been upgraded to Angular 5 with [Angular Material](https://v5.material.angular.io/) installed. It showcase an interactive clock with 25 mins count down.
 
 View [live demo](https://michaelyeg.github.io/angular-timer/) hosted on GitHub Page.
 
